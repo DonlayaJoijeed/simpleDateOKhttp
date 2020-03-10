@@ -1,0 +1,2 @@
+rootProject.name='simpleDateOKhttp'
+include ':app'
